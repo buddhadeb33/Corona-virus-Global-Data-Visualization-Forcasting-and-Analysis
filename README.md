@@ -8,3 +8,13 @@ With the news coming in that the World Health Organization has declared the nove
 
 
 ![Image description](coronavirus-graphic-web-feature.jpg)
+
+
+
+To present visualization out of the prediction I’ve used python package ‘ gmplot’ to show the predictions over google maps.
+The map shows a hotspot with high infected locations based on the coordinate of the region.
+
+
+![Image description](https://github.com/aaroha33/CORONA-VIRUS/blob/master/1_I3JzY3c4guciJNsMHTg8Fg.png)
+
+
