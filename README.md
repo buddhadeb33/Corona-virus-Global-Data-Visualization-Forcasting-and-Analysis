@@ -15,6 +15,6 @@ To present visualization out of the prediction I’ve used python package ‘ gm
 The map shows a hotspot with high infected locations based on the coordinate of the region.
 
 
-![Image description](https://github.com/aaroha33/CORONA-VIRUS/blob/master/Racing_Bar.PNG)
+![Image description](racing_bar.PNG)
 
 
